@@ -22,6 +22,8 @@ public class MailSenderServiceImppl implements MailSenderService{
 
 	private static final String body = null;
 	
+	private static final String body1 = null;
+	
 	
 	
 	@Autowired
